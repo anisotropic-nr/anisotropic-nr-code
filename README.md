@@ -1,2 +1,2 @@
 # anisotropic-nr-code
-## Code Coming Soon!!!
+## Code will be open source soon!!!
